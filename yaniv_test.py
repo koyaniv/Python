@@ -79,7 +79,7 @@ except Exception as e:
     print(e)    # division by zero
 
 #--------  F strings --------
-tim = 68
+tim = 680
 
 x = f'Hello {3 + 4} {tim}'
 print(x)
